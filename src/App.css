@@ -1,0 +1,28 @@
+.app {
+  text-align: center;
+  font-family: sans-serif;
+  margin-top: 50px;
+}
+
+.game-box {
+  margin-top: 30px;
+  padding: 100px;
+  border-radius: 10px;
+  cursor: pointer;
+  transition: background 0.3s ease;
+}
+
+.waiting {
+  background: red;
+  color: white;
+}
+
+.ready {
+  background: green;
+  color: white;
+}
+
+.finished {
+  background: steelblue;
+  color: white;
+}
