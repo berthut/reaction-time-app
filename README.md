@@ -1,5 +1,7 @@
 # Reaction Time Tester
 
+Status: In Progress
+
 A small, interactive React app to test your reaction speed.  
 Built with **React** and **Vite**, this project demonstrates state management, conditional rendering, timers, and simple game logic.
 
@@ -10,6 +12,14 @@ Built with **React** and **Vite**, this project demonstrates state management, c
 - Display best score
 - Three difficulty modes (Easy, Medium, Hard)
 - Restart / Try Again button
+
+## This project is currently in active development.
+Planned improvements:
+- Improve UI styling
+- Improve difficulties consistency
+- Add localStorage persistence
+- Improve animations
+- Deploy live demo
 
 ## Tech Stack
 - React (Functional Components + Hooks)
